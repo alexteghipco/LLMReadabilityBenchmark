@@ -5,6 +5,6 @@ Ever wonder which of the many Large language models (LLMs) you can use have the 
 
 The attached notebook lays out a series of informal experiments comparing many open and closed LLMs.
 
-The result: small open source models that you can run locally are competitive with GPT4o-Turbo and GPT4o-mini, particularly Google's newly released Gemma2. Here's a slice of some of the tested models (GPT4oTurbo did as well as mini):
+The result: small open source models that you can run locally are competitive with GPT4o-Turbo and GPT4o-mini, particularly Google's newly released Gemma2 (2B model performed just about as well as the 27B model across prompts). Here's a slice of some of the tested models (GPT4oTurbo did as well as mini):
 
 <img align="center" width="1200" height="600" src="https://i.imgur.com/Lac7vgr.png">
