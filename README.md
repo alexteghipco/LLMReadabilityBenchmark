@@ -7,4 +7,4 @@ The attached notebook lays out a series of informal experiments comparing many o
 
 The result: small open source models that you can run locally are competitive with GPT4o-Turbo and GPT4o-mini, particularly Google's newly released Gemma2. Here's a slice of some of the tested models (GPT4oTurbo did as well as mini):
 
-<img align="center" width="1200" height="700" src="https://i.imgur.com/Lac7vgr.png">
+<img align="center" width="1200" height="600" src="https://i.imgur.com/Lac7vgr.png">
